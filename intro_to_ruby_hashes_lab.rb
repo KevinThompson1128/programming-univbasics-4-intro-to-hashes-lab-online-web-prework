@@ -25,5 +25,5 @@ end
 def update_counting_hash(hash, key)
   if update_hash[:apples]
      update_hash[:apples] += 1
-     update_hash[:oranges] => 1
+     update_hash[:oranges] = 1
 end
